@@ -27,8 +27,8 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 
 import { downloadZip } from "./client_zip.js";
 
-const mainSaveFileUrl = "https://raw.githubusercontent.com/Touffy/client-zip/master/src/index.ts";
-const saveGameInfoUrl = "https://raw.githubusercontent.com/Touffy/client-zip/master/src/index.ts";
+const mainSaveFileUrl = "https://raw.githubusercontent.com/sudomelon/goldrush-farm/main/data/Maxan_199008108/Maxan_199008108";
+const saveGameInfoUrl = "https://raw.githubusercontent.com/sudomelon/goldrush-farm/main/data/Maxan_199008108/SaveGameInfo";
 const zipFileName = "Maxan_199008108.zip";
 
 function triggerDownload() {
